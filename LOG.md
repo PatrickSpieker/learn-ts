@@ -12,3 +12,9 @@ This installs `tsc`, which can be then used like:
 tsc myCode.ts
 ```
 It'll output a `.js` file. 
+
+
+## Resources
+* https://www.executeprogram.com/courses/typescript-basics/articles/how-to-install-typescript
+
+
